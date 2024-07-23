@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/My_Live_Resto/static/css/main.6285457c.css",
+    "main.js": "/My_Live_Resto/static/js/main.d3065d15.js",
+    "static/js/787.091bb736.chunk.js": "/My_Live_Resto/static/js/787.091bb736.chunk.js",
+    "static/media/biryani.png": "/My_Live_Resto/static/media/biryani.302f559b076a476ad924.png",
+    "static/media/lolipop.png": "/My_Live_Resto/static/media/lolipop.a319b6a57f4496de792e.png",
+    "static/media/mutton.png": "/My_Live_Resto/static/media/mutton.534b0210df2c847a4cef.png",
+    "static/media/chowmin.png": "/My_Live_Resto/static/media/chowmin.c311a7e3e8ad26523bbe.png",
+    "static/media/chickenHandi.png": "/My_Live_Resto/static/media/chickenHandi.774dd853a1ca890930f9.png",
+    "static/media/chicken.png": "/My_Live_Resto/static/media/chicken.7ce11894387b50ee4253.png",
+    "static/media/c65.png": "/My_Live_Resto/static/media/c65.10df2e737f40aafd422a.png",
+    "static/media/mughlai.png": "/My_Live_Resto/static/media/mughlai.d218aaffd4b309cd8d65.png",
+    "static/media/masala.jpg": "/My_Live_Resto/static/media/masala.f4dd64f4906d42ddcbdb.jpg",
+    "static/media/butterChicken.png": "/My_Live_Resto/static/media/butterChicken.c50b57dbd3fef43f156f.png",
+    "static/media/momo.png": "/My_Live_Resto/static/media/momo.7349db5f9b255fd5ca20.png",
+    "static/media/chickenTandoor.png": "/My_Live_Resto/static/media/chickenTandoor.1b533a17b3f623b14bfe.png",
+    "static/media/fish.webp": "/My_Live_Resto/static/media/fish.1eebdb59ceb337f47634.webp",
+    "static/media/banner.jpeg": "/My_Live_Resto/static/media/banner.05892fe97cce26a5d9e5.jpeg",
+    "static/media/chhola.jpg": "/My_Live_Resto/static/media/chhola.a1458ef1370699c23212.jpg",
+    "static/media/logo.svg": "/My_Live_Resto/static/media/logo.6fc22e5fbdec6b9338921613bddec0dd.svg",
+    "static/media/paneer.jpg": "/My_Live_Resto/static/media/paneer.f04d2c563fe596463e47.jpg",
+    "static/media/idli.jpg": "/My_Live_Resto/static/media/idli.dc2d98fda6c7a903c64b.jpg",
+    "static/media/gujrati.jpeg": "/My_Live_Resto/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
+    "static/media/dosa.jpg": "/My_Live_Resto/static/media/dosa.5c938f456ea86779ba13.jpg",
+    "index.html": "/My_Live_Resto/index.html",
+    "main.6285457c.css.map": "/My_Live_Resto/static/css/main.6285457c.css.map",
+    "main.d3065d15.js.map": "/My_Live_Resto/static/js/main.d3065d15.js.map",
+    "787.091bb736.chunk.js.map": "/My_Live_Resto/static/js/787.091bb736.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6285457c.css",
+    "static/js/main.d3065d15.js"
+  ]
+}
